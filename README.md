@@ -1,5 +1,5 @@
 # Identify-Signs-Of-Diabetic-Retinopathy-In-Eye-Images
-## INTRODUCTION:
+### INTRODUCTION:
 Diabetic retinopathy is an eye condition that can cause vision loss and blindness in
 people who have diabetes. It affects blood vessels in the retina (the light - sensitive
 layer of tissue in the back of your eye).Vision loss due to diabetic eye disease is on the
@@ -20,7 +20,7 @@ to be done for the good functionality of the deep learning system and investigat
 systematically how the size with much smaller number of images used in training
 affects its performance.
 
-## EXISTING PROBLEM :
+### EXISTING PROBLEM :
 
 Diabetic retinopathy is an eye disease caused by diabetes that can lead to loss of vision
 or even complete blindness. Diabetic retinopathy accounts for 12% of all new cases of
@@ -40,10 +40,10 @@ convolves an input image with a defined weight matrix to extract specific image
 features without losing spatial arrangement information. There will be a web application
 through which user can give their input image then they can check the predicted output
 and this application is integrated with trained CNN model.
-## BLOCK DIAGRAM:
+### BLOCK DIAGRAM:
 ![image](https://user-images.githubusercontent.com/85671826/123836975-f3131c80-d927-11eb-8001-6ba250371ebd.png)
 
-## STAGES OF DIABETIC RETINOPATHY :
+### STAGES OF DIABETIC RETINOPATHY :
 
 #### There are four stages of diabetic retinopathy :
 ● Mild Nonproliferative Retinopathy – This is the earliest stage of diabetic
