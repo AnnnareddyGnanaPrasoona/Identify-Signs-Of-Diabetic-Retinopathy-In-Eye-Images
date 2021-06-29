@@ -45,11 +45,12 @@ and this application is integrated with trained CNN model.
 
 ## STAGES OF DIABETIC RETINOPATHY :
 
-### There are four stages of diabetic retinopathy :
+#### There are four stages of diabetic retinopathy :
 ● Mild Nonproliferative Retinopathy – This is the earliest stage of diabetic
 retinopathy, and it’s characterized by balloon-like swelling in the retina’s blood
 vessels. These are called microaneurysms, and these vessels can leak into the
 eye.
+
 ● Moderate Nonproliferative Retinopathy – During this stage, the blood vessels
 nourishing the retina swell and may even become blocked. This can contribute to
 diabetic macular edema (DME) which is a build-up of fluid in the macula region of
@@ -58,9 +59,11 @@ vision changes. In fact, DME is the most common reason people with diabetic
 retinopathy experience vision loss. Although DME can occur at any stage of
 diabetic retinopathy, itbecomes increasingly likely as diabetic retinopathy
 worsens.
+
 ● Severe Nonproliferative Retinopathy – At this stage, an increasing number of
 blood  vessels nourishing the eye have become blocked. As a result, the retina is
 signaled to grow new blood vessels.
+
 ● Proliferative Diabetic Retinopathy (PDR) – This is the final stage of diabetic
 retinopathy. New blood vessels proliferate, growing inside the retina and into the
 vitreous gel, which is the fluid that fills the eye. Because these blood vessels are
