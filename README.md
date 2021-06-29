@@ -30,7 +30,7 @@ caused by damage to the blood vessels of the light - sensitive tissue at the bac
 eye (retina). Millions of people suffer from diabetic retinopathy, the leading cause of
 blindness among working aged adults.
 
-## PROPOSED SOLUTION :
+### PROPOSED SOLUTION :
 
 The main objective is to scale the efforts of lab technicians through technology to gain
 the ability to automatically screen images for disease and provide information on how
